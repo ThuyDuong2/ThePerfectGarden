@@ -95,15 +95,15 @@
                 <div class="col-lg-12">
                     <hr>
                     <h2 class="intro-text text-center">HOW TO CREATE
-                        <strong>THE BEAUTIFUL GARDEN</strong>
+                        <strong>THE BEAUTIFUL VEGETABLE GARDEN</strong>
                     </h2>
                     <hr>
                     <img class="img-responsive img-border img-left" src="img/intro-pic.jpg" alt="">
                     <hr class="visible-xs">
                     <p>Creating your own garden can be challenging!
-                    With no time and knowledge about growing,
-                    where do you begin? Our website provides you
-                    the easy way to make a green and relaxing garden.
+                    With no time and knowledge about growing and organizing,
+                    where do you begin? There are many different kinds of gardens.
+                    Our website provides you the easy way to make a green and relaxing vegetable garden.
                     We are sure to have what you are looking for.
                     For access to tips of make your own garden, you must register!
                     Registration is free. Click here to get started!</p>

@@ -1,3 +1,3 @@
 # The Perfect Garden
-This is the simple personal blog using PHP, MySQL, & AJAX 
-
+## About the project:
+ This is a sample personal blog using PHP, MySQL,& AJAX
