@@ -57,12 +57,28 @@
                     <div class='embed-container'><iframe src='https://www.youtube.com/embed/u_Jx2pB7OZg' frameborder='0' allowfullscreen></iframe></div>
                 </div>
                 <div class="col-md-6">
-                    <p>The Perfect Garden, is the relaxtion for family to enjoy their own vegetable and fruit.
-                        Our mission is simple. We want to teach people who love to plant their own vegetable
-                        We are from small village where we growed our vegetable, fruit, and animals.
-                        We love turn any house we are living become the green and beautiful house.
+                    <p>
+                      What does it mean to build the perfect garden?
+                      It depends who you ask! For some it means planning a
+                     garden with minimal upkeep; for others, it’s about picking
+                     the perfect plants for their small space. In my case,
+                     building the perfect garden is a blend of knowing how
+                     to grow vegetables and plants in an urban space,
+                     but also knowing how to use the garden to cultivate colour and joy.
+                     </p>
+                     <br>
+                    <p>The perfect garden depends on many factors
+                    and the individual who will use the space.
+                    For some, their perfect garden already exists,
+                    and the maintenance and management are the joy.
+                    For others, satisfaction is derived in the journey
+                    of exploration and creation. And the personal definition
+                    of “perfection” can shift with age, knowledge, preferences,
+                    and even trends.
+                  </p>
 
-                    </p>
+
+
                 </div>
                 <div class="clearfix"></div>
             </div>
@@ -72,17 +88,30 @@
             <div class="box">
                 <div class="col-lg-12">
                     <hr>
-                    <h2 class="intro-text text-center">Our
-                        <strong>Team</strong>
+                    <h2 class="intro-text text-center">About
+                        <strong>ME</strong>
                     </h2>
                     <hr>
+                    <div class="col-sm-4 text-center">
+                        <img class="img-responsive" src="img/abt1.jpg" alt="">
+                        <h3>Thuy Duong
+                            <!-- <small>Job Title</small> -->
+                        </h3>
+                        <hr class="visible-xs">
+
+                    </div>
+
+                    <hr class="visible-xs">
+                    <p> I was growing up in small village in Vietnam. Most of my time was spending to help my parents in a farm
+                      and rice fileds. Also, I helped taking care of animals. It was the hard work, but it was a lot of fun.
+                      I was grad because I had meaningful childhood where no technologies.
+                       Now I am a student at Sacramento State University as a Computer Science.
+                      The purpose of creating this simple blog is learning and experiencing what I have been learning in school and online course
+                      , and I love gardenning. I love to spend time to see vegetables and plants growing up.
+
+                    </p>
                 </div>
-                <div class="col-sm-4 text-center">
-                    <img class="img-responsive" src="img/abt1.jpg" alt="">
-                    <h3>Thuy Duong
-                        <!-- <small>Job Title</small> -->
-                    </h3>
-                </div>
+
 
                 <div class="clearfix"></div>
             </div>
